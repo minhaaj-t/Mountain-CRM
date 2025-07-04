@@ -26,6 +26,8 @@
 It helps small and medium-sized businesses manage their customers, track communications, and enhance overall customer lifecycle management.
 
 **Try it now: [Live Demo](https://mountain-crm.laravel.cloud)**
+Username : admin@example.com
+Password : password
 
 Key Features:
 
